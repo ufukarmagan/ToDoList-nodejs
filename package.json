@@ -1,0 +1,19 @@
+{
+  "name": "dontknow",
+  "version": "1.0.0",
+  "description": "whatdescrition",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo",
+    "start": "nodemon server.js"
+  },
+  "author": "armagan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3"
+  }
+}
